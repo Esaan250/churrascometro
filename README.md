@@ -6,6 +6,6 @@
 
 <h2>Quantidade base de carne e bebida:</h2>
 
-<p>Carne: 400g por pessoa | 650g se a duração for mais de 6h</p>
-<p>Refrigerante: 1 litro por pessoa | 1,5 litro se a duração for mais de 6h</p>
+<p>Carne: 400g por pessoa | 650g se a duração for de 6h ou mais</p>
+<p>Refrigerante: 1 litro por pessoa | 1,5 litro se a duração for de 6h ou mais</p>
 <p>(Crianças valem por metade)</p>
